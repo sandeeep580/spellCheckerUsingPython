@@ -1,0 +1,5 @@
+program		OK.
+wtih	etch	Update: w to e	Update: i to c	
+visin	eisin	Update: v to e	
+vison	bison	Update: v to b	
+progran	program	Update: n to m	
